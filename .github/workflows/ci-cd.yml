@@ -35,7 +35,4 @@ jobs:
           context: .
           file: Docker.frontend
           push: true
-          # Backend
           tags: ${{ secrets.DOCKER_USERNAME }}/employee-app-frontend:latest
-
-
