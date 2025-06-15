@@ -1,0 +1,10 @@
+artifact_location: file:///D:/employee-app/mlruns/996178871332014351/models/m-c938ef4c18e54352a605743b77496a56/artifacts
+creation_timestamp: 1749988577576
+experiment_id: '996178871332014351'
+last_updated_timestamp: 1749988598855
+model_id: m-c938ef4c18e54352a605743b77496a56
+model_type: null
+name: random_forest_model
+source_run_id: d0cc23dbd3984d28abba51932cff9b65
+status: 2
+status_message: null

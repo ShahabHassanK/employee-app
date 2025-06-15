@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/employee-app/mlruns/996178871332014351/d0cc23dbd3984d28abba51932cff9b65/artifacts
+end_time: 1749988598934
+entry_point_name: ''
+experiment_id: '996178871332014351'
+lifecycle_stage: active
+run_id: d0cc23dbd3984d28abba51932cff9b65
+run_name: dazzling-pig-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749988575830
+status: 3
+tags: []
+user_id: dell
